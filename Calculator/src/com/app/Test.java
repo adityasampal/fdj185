@@ -9,4 +9,8 @@ public class Test {
 	public void substraction() {
 		System.out.println("substraction Method");
 	}
+	
+	public void Division() {
+		System.out.println("Division Method");
+	}
 }
