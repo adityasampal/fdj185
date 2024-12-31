@@ -10,7 +10,5 @@ public class Test {
 		System.out.println("substraction Method");
 	}
 	
-	public void Division() {
-		System.out.println("Division Method");
-	}
+	
 }
